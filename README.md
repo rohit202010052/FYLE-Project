@@ -106,7 +106,7 @@ Above command will execute the following
 
 ## Author
 
-- [@Atmalviya1](https://github.com/Atmalviya1)
+- [@rohit202010052](https://github.com/rohit202010052)
 
 
 
@@ -114,15 +114,12 @@ Above command will execute the following
 
 ## 🚀 About Me
 
-# Hey! I'm Atul Malviya 👋
-A software developer and Computer Science Engineering graduate from Jabalpur Engineering College. Currently, I'm gaining valuable experience as a Software Developer Trainee at Opensense Labs. Apart from coding, I've served as the TPO of my college and have a passion for karate, having represented India and won three national gold medals. Let's connect and code together! 🚀
+# Hey! I'm R Rohit Kumar 👋
 
-Reach me at [email](mailto:atulmalviyawork@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/atul-malviya/).
+A software developer and Computer Science Engineering graduate from National Institute of Science and Technology. 
+Since I've only Recently begun my career, I 'don't have any concrete accomplishment, but I truly want to use this opportunity to explore and discover my potential in the real world by providing the greatest service to the firm. Working with you and your organization will be an honor. I have a strong interest in Full Stack Web Development And Artificial Intelligence, and I enjoy learning new things. In my former position as freelancer, i was constantly looking for ways to sharpen my coadding abilities and increase my understanding of many aspects of Web Development production. I also believe  that my organizational skills and attention to detail make me a fantastic candidate for this position. 
 
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-malviya/)
+Reach me at [email](mailto:rrohitkumar122002@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/r-rohit-kumar-202010052r).
 
 
 
@@ -143,11 +140,11 @@ Javascript, TypeScript, SQL, MERN/MEAN, GIt, Bit Bucket, PHP
 
 🧠 I'm currently learning Node.js
 
-📫 How to reach me...-> https://www.linkedin.com/in/atul-malviya/
+📫 How to reach me...-> https://www.linkedin.com/in/r-rohit-kumar-202010052r
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at atulmalviyawork@gmail.com
+If you have any feedback, please reach out to us at rrohitkumar122002@gmail.com
 
