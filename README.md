@@ -10,13 +10,6 @@ Angular 17 single-page application (SPA) that takes a GitHub username as input a
 **Client:** Angular, TypeScript, TailwindCSS
 
 
-## Deployment
-
-See Deployed Site
-
-```bash
-  https://fyle-internship-atul.netlify.app/
-```
 
 
 ## API Reference
